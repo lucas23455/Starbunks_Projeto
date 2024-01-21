@@ -38,7 +38,6 @@ https://starbunks-projeto.vercel.app/
 - About and Contact
   
 ![image](https://github.com/lucas23455/Starbunks_Projeto/assets/80688055/65a910c5-24fb-496c-be0d-f5082d6259bf)
-quero deixar o logo da starbunks pequeno e centralzado
 
 
 
