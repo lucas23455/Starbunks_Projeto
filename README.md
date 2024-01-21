@@ -1,7 +1,6 @@
 # <img height="40" src="https://user-images.githubusercontent.com/84249945/219458363-0df46081-95bd-4878-a828-541457541cbd.png"/> Sobre
 
 
-![image](https://github.com/lucas23455/Starbunks_Projeto/assets/80688055/521c2e58-3cc1-45c9-9d80-4d41ce977f2f)
 
 
 
